@@ -33,8 +33,8 @@ func main() {
 		Name:  "Mihalis",
 		Surname: "Tsoukalos",
 		Tel: []Telephone{Telephone{Mobile: true, Number: "12345-123"},
-		Telephone{Mobile: true, Number: "1234-abcd"},
-		Telephone{Mobile: false, Number: "abcc-567"},
+			Telephone{Mobile: true, Number: "1234-abcd"},
+			Telephone{Mobile: false, Number: "abcc-567"},
 		},
 	}
 
